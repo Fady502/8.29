@@ -2,7 +2,7 @@ import java.util.Scanner;
 // Fady Zaki SDEV200 1/20/24
 public class Main {
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter list1: ");
